@@ -1,2 +1,2 @@
 # textures
-very good textures indeed
+Quality textures loader
